@@ -1,1 +1,3 @@
-This is the repository for the project Crypto Tracker . The project is made primarily in React, and other third party libraries such as Material UI, React Chartjs -2 and CoinGecko API have been used.
+# Cryptocurrency Hunter created with React JS, Material UI and Chart JS
+
+
